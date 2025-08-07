@@ -1,2 +1,2 @@
-# mini-project
-Next item recommendations using TLSAN
+# Mini-Project
+Code for The Next Item Recommendations using TLSAN-A Deep Learning Model.
