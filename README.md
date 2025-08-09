@@ -15,11 +15,11 @@ TECH STACK:<br>
 KEY RESULTS:<br>
 TLSAN achieved 0.98 AUC,outperforming all baseline models.           
  MODEL  AUC  
- TLSAN 	0.98 <br>
- PACA   0.95  <br>   
- LSTM   0.93  <br>   
- SHAN   0.86  <br>   
- CNN    0.76   <br>  
+ TLSAN 	0.98 
+ PACA   0.95    
+ LSTM   0.93     
+ SHAN   0.86  
+ CNN    0.76   
 
 REFERENCE:<br>
 TLSAN: Time-aware Long- and Short-term Attention Network for Next Item Recommendation 
